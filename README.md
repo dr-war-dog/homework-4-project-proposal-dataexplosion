@@ -11,7 +11,7 @@
 
 * [Project Summary](#project-summary)
 * [Data](#data)
-* [Project Description](#:star:-project-description)
+* [Project Description](#project-description)
 * [Project Plan](#project-plan)
     * [data collection](#a.data-collection)
 
@@ -30,7 +30,7 @@ A trove of reviews, businesses, users, tips and check-in data from Yelp
 **Size**: 3GB  
 **Source**:[Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset "Yelp dataset from Kaggle")
 ****
-### :star: Project Description
+### Project Description
 **a.Description**  
 Our project is going to be centered around Yelp. We will use the data from Kaggle to keep track of user tastes, purchasing habits and try to draw some interesting conclusions. (like draw a portrait of consumers, where are best restaurants )  
 
@@ -45,8 +45,8 @@ Our data is from Kaggle. And we can use Python to grab some other data as supple
 basic functions: use some basic visualization methods to represent data  
 advanced functions: more attractive way to present our conclusion  
 ****
-### :star:Project Plan
-#### a.data collection    
+### Project Plan
+#### a.data collection  
 obtain the data, I collected the data from Kaggle. If it is needed for further research, I would use Python to grab some online data as supplement.  
 
 **b.data cleaning**  
