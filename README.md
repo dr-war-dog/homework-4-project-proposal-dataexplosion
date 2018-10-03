@@ -7,6 +7,11 @@
 
 ## contents
 * [Project Summary](#Project-Summary)
+* [Data](#Data)
+* [Project Description](#Project-Description)
+* [Project plan](#Project-plan)
+    * [Data](#Data)
+
 
 
 
@@ -34,7 +39,7 @@ basic functions: use some basic visualization methods to represent data
 advanced functions: more attractive way to present our conclusion  
 ****
 ### :star:Project Plan
-**a.data collection (completed)**  - [x]  
+**a.data collection (completed)**    
 obtain the data, I collected the data from Kaggle. If it is needed for further research, I would use Python to grab some online data as supplement.  
 
 **b.data cleaning**  
