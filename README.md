@@ -1,12 +1,12 @@
 ![](https://ws1.sinaimg.cn/large/006tNbRwly1fvh59oez3dj304t04uaap.jpg)
-#Project Proposal
+# Project Proposal
 
 |Author|Yiqing Liu|
 |---|---
 |E-mail|yiqing5@:corn:.edu
 
 ## contents
-* [Project Summary](#:star:ProjectPlan)
+* [Project Summary](Project Summary)
 
 
 
