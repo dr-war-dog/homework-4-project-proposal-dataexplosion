@@ -6,7 +6,7 @@
 |E-mail|yiqing5@:corn:.edu
 
 ## contents
-* [Project Summary](#Project Summary)
+* [Project Summary](#Project-Summary)
 
 
 
@@ -34,7 +34,7 @@ basic functions: use some basic visualization methods to represent data
 advanced functions: more attractive way to present our conclusion  
 ****
 ### :star:Project Plan
-**a.data collection (completed)**  
+**a.data collection (completed)**  - [x]  
 obtain the data, I collected the data from Kaggle. If it is needed for further research, I would use Python to grab some online data as supplement.  
 
 **b.data cleaning**  
