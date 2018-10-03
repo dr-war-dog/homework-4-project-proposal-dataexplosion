@@ -13,7 +13,7 @@
 * [Data](#data)
 * [Project Description](#project-description)
 * [Project Plan](#project-plan)
-    * [data collection](#a.data-collection)
+    * [data collection](#data-collection)
 
 
 
@@ -46,7 +46,7 @@ basic functions: use some basic visualization methods to represent data
 advanced functions: more attractive way to present our conclusion  
 ****
 ### Project Plan
-#### a.data collection  
+#### data collection  
 obtain the data, I collected the data from Kaggle. If it is needed for further research, I would use Python to grab some online data as supplement.  
 
 **b.data cleaning**  
