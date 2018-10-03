@@ -5,6 +5,8 @@
 |---|---
 |E-mail|yiqing5@:corn:.edu
 
+[Project Summary](#ProjectSummary)
+
 ## contents
 * [Project Summary](#Project-Summary)
 * [Data](#Data)
@@ -15,7 +17,7 @@
 
 
 
-### Project Summary
+### ProjectSummary
 Do a research about Yelp, draw some interesting conclusions!  
 ****
 ### Data
