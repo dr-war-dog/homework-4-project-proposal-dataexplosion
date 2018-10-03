@@ -7,7 +7,7 @@
 
 ## contents
 * [Project Summary](#Project-Summary)
-* [Data](#:star:-Data)
+* [Data](#Data)
 * [Project Description](#-:star:-Project-Description)
 * [Project plan](#-:star:-Project-plan)
     * [data collection]
@@ -15,10 +15,10 @@
 
 
 
-###Project Summary
+### Project Summary
 Do a research about Yelp, draw some interesting conclusions!  
 ****
-### :star: Data
+### Data
 A trove of reviews, businesses, users, tips and check-in data from Yelp  
 **Size**: 3GB  
 **Source**:[Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset "Yelp dataset from Kaggle")
