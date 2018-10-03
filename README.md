@@ -7,10 +7,15 @@
 
 
 
+## Contents
 
-[Project Summary](#project-summary)
+* [Project Summary](#project-summary)
+* [Data](#data)
+* [Project Description](#project-description)
+* [Project Plan](#project-plan)
+    * [data collection](#a.data-collection)
 
-#What is LaTeX?
+
 
 
 
