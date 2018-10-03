@@ -20,7 +20,7 @@
 
 
 
-### ProjectSummary
+# ProjectSummary
 Do a research about Yelp, draw some interesting conclusions!  
 ****
 ### Data
