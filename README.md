@@ -6,16 +6,16 @@
 |E-mail|yiqing5@:corn:.edu
 
 ## contents
-* [Project Summary](#-:star:-Project-Summary)
-* [Data](#-:star:-Data)
+* [Project Summary](#Project-Summary)
+* [Data](#:star:-Data)
 * [Project Description](#-:star:-Project-Description)
 * [Project plan](#-:star:-Project-plan)
-    * [data collectiona](#a.data-collection)
+    * [data collection]
 
 
 
 
-### :star: Project Summary
+###Project Summary
 Do a research about Yelp, draw some interesting conclusions!  
 ****
 ### :star: Data
