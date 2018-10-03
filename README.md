@@ -5,18 +5,10 @@
 |---|---
 |E-mail|yiqing5@:corn:.edu
 
-[Project Summary](#ProjectSummary)
-[What is LaTeX?](#what-is-latex)
 
-# What is LaTeX?
+[Project Summary](#Project-Summary)
 
-## contents
-* [Project Summary](#Project-Summary)
-* [Data](#Data)
-* [Project Description](#-:star:-Project-Description)
-* [Project plan](#-:star:-Project-plan)
-    * [data collection]
-
+# Project Summary
 
 
 
