@@ -9,16 +9,15 @@
 
 
 [Project Summary](#project-summary)
-[What is LaTeX?](#what-is-latex)
+
 #What is LaTeX?
 
 
 
-# Project Summary
 
 
 
-# ProjectSummary
+### Project Summary
 Do a research about Yelp, draw some interesting conclusions!  
 ****
 ### Data
