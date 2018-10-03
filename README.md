@@ -6,11 +6,11 @@
 |E-mail|yiqing5@:corn:.edu
 
 ## contents
-* [Project Summary](#Project-Summary)
-* [Data](#Data)
-* [Project Description](#Project-Description)
-* [Project plan](#Project-plan)
-    * [Data.data collectiona](#a.data-collection)
+* [Project Summary](#-:star:-Project-Summary)
+* [Data](#-:star:-Data)
+* [Project Description](#-:star:-Project-Description)
+* [Project plan](#-:star:-Project-plan)
+    * [data collectiona](#a.data-collection)
 
 
 
