@@ -6,6 +6,9 @@
 |E-mail|yiqing5@:corn:.edu
 
 [Project Summary](#ProjectSummary)
+[What is LaTeX?](#what-is-latex)
+
+# What is LaTeX?
 
 ## contents
 * [Project Summary](#Project-Summary)
