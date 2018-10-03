@@ -11,7 +11,7 @@
 
 * [Project Summary](#project-summary)
 * [Data](#data)
-* [Project Description](#project-description)
+* [Project Description](#:star:-project-description)
 * [Project Plan](#project-plan)
     * [data collection](#a.data-collection)
 
