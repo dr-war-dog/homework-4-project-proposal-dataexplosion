@@ -16,11 +16,14 @@ Source:[Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset "Yelp dataset f
 ### :star: Project Description
 a.	Description  
 Our project is going to be centered around Yelp. We will use the data from Kaggle to keep track of user tastes, purchasing habits and try to draw some interesting conclusions. (like draw a portrait of consumers, where are best restaurants )  
+
 b.	Usefulness  
 “What to eat…” ,at least for me, it’s a big question.   
 Maybe I will know what to eat after the project  
+
 c.	Realness  
 Our data is from Kaggle. And we can use Python to grab some other data as supplement.  
+
 d.	Functionality  
 basic functions: use some basic visualization methods to represent data  
 advanced functions: more attractive way to present our conclusion  
